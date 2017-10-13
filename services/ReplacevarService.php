@@ -2,7 +2,7 @@
 /**
  * replacevar plugin for Craft CMS
  *
- * Replacevar_Replacevar Service
+ * Replacevar Service
  *
  *
  * @author    Nathan Reed
