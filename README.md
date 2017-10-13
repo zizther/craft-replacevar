@@ -29,6 +29,7 @@ This also works if the token is part of a hard-coded string:
 That's it! Any matching environment variables defined in your config file or globals will be parsed
 
 It can also be called within other plugins or in Element API config
+
     craft()->replacevar->replacevar($entry->fieldName)
 
 ## What's an environment variable?
