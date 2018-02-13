@@ -63,7 +63,9 @@ class ReplacevarService extends BaseApplicationComponent
 
                 if (
                     $fieldType instanceof PlainTextFieldType ||
-                    $fieldType instanceof RichTextFieldType
+                    $fieldType instanceof RichTextFieldType ||
+					$fieldType instanceof NumberFieldType ||
+					$fieldType instanceof DropdownFieldType
                 ) {
                     $value = $globalSet->getFieldValue($field->handle);
                     $key = $globalSet->handle.'.'.$field->handle;
