@@ -1,5 +1,13 @@
 [
     {
+        "version": "1.0.2",
+        "downloadUrl": "https://github.com/zizther/craft-replacevar/archive/v1.0.2.zip",
+        "date": "2018-02-13T23:22:48.623Z",
+        "notes": [
+            "[Added] Support for more field types"
+        ]
+    },
+    {
         "version": "1.0.1",
         "downloadUrl": "https://github.com/zizther/craft-replacevar/archive/v1.0.1.zip",
         "date": "2017-10-13T15:47:28.623Z",
