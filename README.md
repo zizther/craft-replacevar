@@ -1,4 +1,6 @@
-# replacevar plugin for Craft CMS
+# replacevar plugin for Craft CMS 2
+
+For Craft CMS 3 checkout [Craft Dynamic Variables](https://github.com/zizther/craft-dynamic-variables)
 
 Replace environment variable and global strings.
 
